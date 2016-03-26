@@ -1,6 +1,6 @@
   {
   "name": "utils-atom",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Utilidades atom",
   "main": "src/input-dialog",
   "scripts": {
