@@ -1,8 +1,8 @@
   {
   "name": "utils-atom",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Utilidades atom",
-  "main": "src/input-dialog",
+  "main": "src/utils-atom",
   "scripts": {
   },
   "repository": {
@@ -14,7 +14,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "atom-space-pen-views": "^2.0.0"
+    "input-dialog": "0.1.5"
   },
   "devDependencies": {
     "coffee-script": "^1.9.3"
