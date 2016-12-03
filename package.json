@@ -5,7 +5,7 @@
   "main": "src/utils-atom",
   "scripts": {
   },
-  "repository": {
+  "repository": { 
     "type": "git",
     "url": "https://github.com/programadorsito/utils-atom.git"
   },
